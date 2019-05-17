@@ -2,5 +2,5 @@ theme: jekyll-theme-minimal
 title: My homepage
 description: some fresh stuff
 plugins:
-   
+   - jemoji
    
