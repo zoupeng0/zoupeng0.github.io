@@ -14,7 +14,10 @@
 
 ### My interests
 
-`ROS` `SLAM` *ROBOTICS* ***LIFE***
+- `ROS` 
+- `SLAM` 
+- *ROBOTICS* 
+- ***LIFE***
 
 
 ### Find me on:
